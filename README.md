@@ -16,19 +16,13 @@ Dies ist eine Scene bei der man sich bisher "nur" umschauen und die zwei ClickOn
 -
 -
 -
--             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-  
 -
 -
 -
 -
 -
-_____________________________________________________________________________________________________
--
--
--
--
--
--
+
 
 <img width="146" alt="Bildschirmfoto 2021-12-22 um 21 17 26" src="https://user-images.githubusercontent.com/62291189/147150601-de2e922a-89c1-4e81-9c77-44aed3bbf426.png">
 
